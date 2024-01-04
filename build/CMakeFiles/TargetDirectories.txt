@@ -1,0 +1,3 @@
+/Users/samsandhu/Doucments/CodingProjects/FacialRecognition/build/CMakeFiles/rebuild_cache.dir
+/Users/samsandhu/Doucments/CodingProjects/FacialRecognition/build/CMakeFiles/edit_cache.dir
+/Users/samsandhu/Doucments/CodingProjects/FacialRecognition/build/CMakeFiles/face.dir
